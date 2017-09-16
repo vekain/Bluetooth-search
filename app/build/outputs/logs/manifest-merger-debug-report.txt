@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:10:6-79
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:10:23-77
+application
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:11:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/vikash_parashar/.android/build-cache/a852cfa1112c7c1efcaa8e5661c1fa5209fee083/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vikash_parashar/.android/build-cache/44f08f46f9c29b6951ff92f844bbba6d40d6f56d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vikash_parashar/.android/build-cache/0065382cc06e903cdcebd13bf3ab02de1fa3e802/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vikash_parashar/.android/build-cache/db5a5f02e64f3629eb7563b16874d89cbf4eb263/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vikash_parashar/.android/build-cache/620c4f32b6f31098ff4dc186ff8726a92bce83db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vikash_parashar/.android/build-cache/e8363b3000020659ea7ff0f848f68696bd04d7bb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vikash_parashar/.android/build-cache/afcda98ebd6184e0450905f66170b3d54e0cba15/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/vikash_parashar/.android/build-cache/191063684d22ad1c71d78784adc55f750b6678e1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vikash_parashar/.android/build-cache/91228e3c7f0690e1bcba87e5620e02ff41d49d42/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:14:9-44
+	android:supportsRtl
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:16:9-65
+activity#vk.learn.com.wifi.MainActivity
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/vikash_parashar/.android/build-cache/a852cfa1112c7c1efcaa8e5661c1fa5209fee083/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vikash_parashar/.android/build-cache/44f08f46f9c29b6951ff92f844bbba6d40d6f56d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vikash_parashar/.android/build-cache/0065382cc06e903cdcebd13bf3ab02de1fa3e802/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vikash_parashar/.android/build-cache/db5a5f02e64f3629eb7563b16874d89cbf4eb263/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vikash_parashar/.android/build-cache/620c4f32b6f31098ff4dc186ff8726a92bce83db/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vikash_parashar/.android/build-cache/e8363b3000020659ea7ff0f848f68696bd04d7bb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vikash_parashar/.android/build-cache/afcda98ebd6184e0450905f66170b3d54e0cba15/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/vikash_parashar/.android/build-cache/191063684d22ad1c71d78784adc55f750b6678e1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vikash_parashar/.android/build-cache/91228e3c7f0690e1bcba87e5620e02ff41d49d42/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/vikash_parashar/.android/build-cache/a852cfa1112c7c1efcaa8e5661c1fa5209fee083/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vikash_parashar/.android/build-cache/44f08f46f9c29b6951ff92f844bbba6d40d6f56d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vikash_parashar/.android/build-cache/0065382cc06e903cdcebd13bf3ab02de1fa3e802/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vikash_parashar/.android/build-cache/db5a5f02e64f3629eb7563b16874d89cbf4eb263/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vikash_parashar/.android/build-cache/620c4f32b6f31098ff4dc186ff8726a92bce83db/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vikash_parashar/.android/build-cache/e8363b3000020659ea7ff0f848f68696bd04d7bb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vikash_parashar/.android/build-cache/afcda98ebd6184e0450905f66170b3d54e0cba15/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/vikash_parashar/.android/build-cache/191063684d22ad1c71d78784adc55f750b6678e1/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/AndroidManifest.xml:26:9-47

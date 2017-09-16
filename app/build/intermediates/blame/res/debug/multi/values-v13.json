@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/.android/build-cache/27bacdcbd8c72e934d15ff86570837a13f647baa/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/C:\\Users\\android\\Documents\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/C:\\Users\\android\\.android\\build-cache\\81c431aaa29f6503bc2ae9bf4587ea37f5e1fca4\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/C:\\Users\\Dell-(PC)\\Documents\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/C:\\Users\\Dell-(PC)\\.android\\build-cache\\acc95bb7b58a5d8f14ad207524abb54068433bbe\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/C:\\Users\\Dell\\Documents\\AndroidStudioProjects\\Bluetooth_search\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/vikash_parashar/Android/AndroidStudioProjects/Bluetooth_search/C:\\Users\\Dell\\.android\\build-cache\\52cabfc77d8b834c2b58e3053e7ae16291cbfad1\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]
